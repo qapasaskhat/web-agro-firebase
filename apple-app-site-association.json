@@ -5,12 +5,8 @@
         {
           "appID": "N7SSD8PQXB.org.reactjs.native.example.agro",
           "paths": [
-            "*",
-            "/",
-            "/announcement/",
-            "/announcement/*",
-            "/announcement/id=*"
-        ]
+            "/announcement/*"
+          ]
         }
       ]
     }
