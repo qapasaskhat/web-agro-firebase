@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "BaiAgro",
+      "package_name": "com.agro",
+      "sha256_cert_fingerprints":
+      ["28:A4:9B:6F:96:66:82:05:1B:CB:4C:6F:54:1F:C6:3F:04:A6:60:4F:68:96:32:3D:B4:58:D8:54:DF:A5:93:EA"]
+    }
+  }]
